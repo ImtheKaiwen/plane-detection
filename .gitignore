@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.venv/
+video.mp4
+*.pt
